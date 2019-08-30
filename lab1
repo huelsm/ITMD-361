@@ -4,9 +4,9 @@
 	<meta charset="UTF-8">
 	<title>ITMD-361 Internet Technologies and Web Design</title>
 </head>
-<head>
+<h>
 	<p>Lab 1 for ITMD 361. Matt Huels. </p>
-	</head>
+	</h>
 <body>
   <p>&amp; Hello world. This is my first website!</p>
   <p> My name is Matt Huels. I am an udergrad student in the ITM program. I am not the best at programming, but I still enjoy doing it
